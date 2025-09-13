@@ -4,42 +4,42 @@ import java.util.Comparator;
 public class Main {
     public static void main(String[] args) {
         List<Book> books1 = List.of(
-                new Book("Книга002",  1999, 300),
-                new Book("Книга002",  2005, 450),
+                new Book("Книга002", 1999, 300),
+                new Book("Книга002", 2005, 450),
                 new Book("Книга003", 2010, 500),
-                new Book("Книга004",  2008, 250),
+                new Book("Книга004", 2008, 250),
                 new Book("Книга005", 2001, 600)
         );
 
         List<Book> books2 = List.of(
-                new Book("Книга001",  1999, 300),
-                new Book("Книга001",  2005, 450),
+                new Book("Книга001", 1999, 300),
+                new Book("Книга001", 2005, 450),
                 new Book("Книга003", 2010, 500),
-                new Book("Книга004",  2008, 250),
+                new Book("Книга004", 2008, 250),
                 new Book("Книга005", 2001, 600)
         );
 
         List<Book> books3 = List.of(
-                new Book("Книга001",  1999, 300),
-                new Book("Книга002",  2005, 450),
+                new Book("Книга001", 1999, 300),
+                new Book("Книга002", 2005, 450),
                 new Book("Книга002", 2010, 500),
-                new Book("Книга004",  2008, 250),
+                new Book("Книга004", 2008, 250),
                 new Book("Книга005", 2001, 600)
         );
 
         List<Book> books4 = List.of(
-                new Book("Книга001",  1999, 300),
-                new Book("Книга002",  2005, 450),
+                new Book("Книга001", 1999, 300),
+                new Book("Книга002", 2005, 450),
                 new Book("Книга003", 2010, 500),
-                new Book("Книга003",  2008, 250),
+                new Book("Книга003", 2008, 250),
                 new Book("Книга005", 2001, 600)
         );
 
         List<Book> books5 = List.of(
-                new Book("Книга001",  1999, 300),
-                new Book("Книга002",  2005, 450),
+                new Book("Книга001", 1999, 300),
+                new Book("Книга002", 2005, 450),
                 new Book("Книга003", 2010, 500),
-                new Book("Книга004",  2008, 250),
+                new Book("Книга004", 2008, 250),
                 new Book("Книга004", 2001, 600)
         );
 
