@@ -1,4 +1,4 @@
-package Les3Coffee;
+package Les3Decorator;
 
 public interface Coffee {
     String getDescription();

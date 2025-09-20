@@ -1,4 +1,4 @@
-package Les3Coffee;
+package Les3Decorator;
 
 public class SugarDecorator extends CoffeeDecorator {
     public SugarDecorator(Coffee coffee) {
